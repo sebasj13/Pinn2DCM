@@ -11,4 +11,5 @@ def main():
     except IndexError:
         Pinn2DCM()
         
-main()
+if __name__ == "__main__":
+    main()

@@ -1,3 +1,4 @@
+import os
 import setuptools
 
 with open("README.md", "r", encoding="utf-8") as fh:
@@ -12,20 +13,15 @@ setuptools.setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     url="https://github.com/sebasj13/Pinn2DCM",
-    project_urls={"Bug Tracker": "https://github.com/sebasj13/Pinn2DCM/issues",},
+    project_urls={"Bug Tracker": "https://github.com/sebasj13/Pinn2DCM/issues"},
     include_package_data=True,
     classifiers=[
         "Programming Language :: Python :: 3",
         "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
-    install_requires=[
-        "numpy",
-        "pydicom",
-    ],
-    packages=[
-        "pinn2dcm",
-    ],
+    install_requires=["numpy", "pydicom"],
+    packages=["pinn2dcm"],
     scripts=["pinn2dcm/__main__.py"],
     entry_points={
         "console_scripts": ["pinn2dcm=pinn2dcm.__main__: main"],
