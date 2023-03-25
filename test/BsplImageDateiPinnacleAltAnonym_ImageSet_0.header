@@ -1,0 +1,73 @@
+	byte_order = 1;
+	read_conversion = "";
+	write_conversion = "";
+	t_dim = 1;
+	x_dim = 512;
+	y_dim = 512;
+	z_dim = 31;
+	datatype = 1;
+	bitpix = 16;
+	bytes_pix = 2;
+	vol_max = 4071.000000;
+	vol_min = 0.000000;
+	t_pixdim = 0.000000;
+	x_pixdim = 0.097656;
+	y_pixdim = 0.097656;
+	z_pixdim = 1.000000;
+	t_start = 0.000000;
+	x_start = -24.551201;
+	y_start = -21.451200;
+	z_start = 12.650000;
+	z_time = 0.000000;
+	dim_units : cm
+	voxel_type : 
+	id = 0;
+	vis_only = 0;
+	data_type : short
+	vol_type : 
+	db_name : Nachname, Vorname
+	medical_record : 
+	originator : KLINIKUM ORT
+	date : 8/20/2002
+	scanner_id : SIEMENS
+	patient_position : HFS
+	orientation = 0;
+	scan_acquisition = 0;
+	comment : 
+	fname_format : 
+	fname_index_start = 0;
+	fname_index_delta = 0;
+	binary_header_size = 0;
+	manufacturer : 
+	model : 
+	couch_pos = 0.000000;
+	couch_height = 0.000000;
+	X_offset = 0.000000;
+	Y_offset = 0.000000;
+	dataset_modified = 0;
+	study_id : 
+	exam_id : 
+	patient_id : 
+	modality : 
+	gating_type : 
+	gating_value : 
+	gating_UID : 
+	irradiation_event_UID : 
+	series_UID : 
+	Series_Description : 
+	Scan_Options : 
+	Low_Sag : 
+	Negative_Voxel : 
+	Station_Name : 
+	KVP : 
+	Exposure = 0.000000;
+	SeriesNumber = 0;
+	SeriesDateTime : 
+	Version : 
+	x_start_dicom = 0.000000;
+	y_start_dicom = 0.000000;
+	binning_type : 
+	is_EEOV = 0;
+	is_OMAR = 0;
+	image_diameter = 0.000000;
+	has_couchheight = 0;

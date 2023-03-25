@@ -1,2 +1,2 @@
 # Pinn2DCM
-Convert old Pinnacle doses into the RTDOSE format.
+Convert old Pinnacle CTs into the DICOM format.

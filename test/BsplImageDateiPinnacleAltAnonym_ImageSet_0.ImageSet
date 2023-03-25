@@ -1,0 +1,9 @@
+ImageSetID = 0;
+PatientID = 0;
+ImageName = "";
+NameFromScanner = "Nachname, Vorname";
+ExamID = "";
+NumberOfImages = 31;
+ScanTimeFromScanner = "8/20/2002";
+
+/* �C */
