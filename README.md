@@ -29,6 +29,8 @@ To start the GUI, run the fcommand without any arguments:
 $ pinn2dcm
 ```
 
+![GUI](https://user-images.githubusercontent.com/87897942/227711992-3b7791f3-a094-4d1d-bb03-879f56db592f.png)
+
 ## Installation
 
 You can either download the repository manually and extract it, use `git clone`, or install using pip:
